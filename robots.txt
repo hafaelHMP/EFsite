@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emiliaferreiro.site/sitemap.xml
